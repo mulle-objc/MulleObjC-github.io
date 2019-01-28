@@ -1,1 +1,17 @@
 theme: jekyll-theme-minimal
+
+
+title: "MulleObjC"
+description: "The mulle-objc runtime and root classes"
+logo: 'https://avatars1.githubusercontent.com/u/23309093?s=256'
+show_downloads: false
+
+
+highlighter: rouge
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+enable_coderay: false
