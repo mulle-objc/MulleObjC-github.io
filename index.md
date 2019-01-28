@@ -1,7 +1,7 @@
 # MulleObjC
 
-The root class library *MulleObjC* provides the base to write Objective-C
-code. It's a lookalike of the Apple Foundation root classes and features classes such
+The root class library *MulleObjC* provides the base to write [mulle-objc](//mulle-objc.github.io)
+Objective-C code. It's a lookalike of the Apple Foundation root classes and features classes such
 as `NSObject` or `NSAutoreleasePool`. *MulleObjC* is based on *mulle-objc-runtime*,
 the runtime library that is written in C.
 
