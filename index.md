@@ -15,7 +15,7 @@ libraries. It is also needed for coverage-based link support.
 Library                                                            | Description 
 -------------------------------------------------------------------|----------------------
 [MulleObjC](//github.com/mulle-objc/MulleObjC)                     | A collection of Objective-C root classes for mulle-objc 
-[mulle-objc-list](//github.com/mulle-objc/[mulle-objc-list)        | Lists mulle-objc runtime information contained in executables.
+[mulle-objc-list](//github.com/mulle-objc/mulle-objc-list)         | Lists mulle-objc runtime information contained in executables.
 [mulle-objc-compat](//github.com/mulle-objc/mulle-objc-compat)     | Compatibility layer with Apple Objective-C runtime functions  
 [mulle-objc-runtime](//github.com/mulle-objc/mulle-objc-runtime)   | A fast, portable Objective-C runtime written 100% in C11
 
