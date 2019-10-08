@@ -12,6 +12,11 @@ additional cost.
 The *mulle-objc-list* executable is used to create dependency information of *mulle-objc*
 libraries. It is also needed for coverage-based link support.
 
+Books                                                              | Description 
+-------------------------------------------------------------------|----------------------
+[De Re MulleObjC](//github.com/mulle-objc/De-Re-MulleObjC)         | A developer guide. Work in progress 
+[MulleObjC Cheat Sheet](//github.com/mulle-objc/MulleObjC-Cheat-Sheet)   | A variation of the Objective-C CheatSheet, customized for MulleObjC. Work in progress
+
 Library                                                            | Description 
 -------------------------------------------------------------------|----------------------
 [MulleObjC](//github.com/mulle-objc/MulleObjC)                     | A collection of Objective-C root classes for mulle-objc 
