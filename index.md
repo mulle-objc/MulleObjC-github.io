@@ -24,14 +24,14 @@ Library                                                            | Description
 [mulle-objc-compat](//github.com/mulle-objc/mulle-objc-compat)     | Compatibility layer with Apple Objective-C runtime functions  
 [mulle-objc-runtime](//github.com/mulle-objc/mulle-objc-runtime)   | A fast, portable Objective-C runtime written 100% in C11
 
-The MulleObjC library collection is based on [mulle-concurrent](//mulle-core.github.io)
-and [mulle-c](//mulle-c.github.io).
 
 Library                                                            | Description 
 -------------------------------------------------------------------|----------------------
 [mulle-objc-runtime-startup](//github.com/mulle-objc/mulle-objc-runtime-startup) | Executables based on mulle-objc-runtime link with this 
 [MulleObjC-startup](//github.com/mulle-objc/MulleObjC-startup) | Executables based on MulleObjC link with this 
 
+The MulleObjC library collection is based on [mulle-concurrent](//mulle-core.github.io)
+and [mulle-c](//mulle-c.github.io).
 [MulleFoundation](//MulleFoundation.github.io) is based on *MulleObjC*
 
 
