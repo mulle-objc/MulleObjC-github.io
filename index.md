@@ -23,6 +23,7 @@ Library                                                            | Description
 [mulle-objc-list](//github.com/mulle-objc/mulle-objc-list)         | Lists mulle-objc runtime information contained in executables.
 [mulle-objc-compat](//github.com/mulle-objc/mulle-objc-compat)     | Compatibility layer with Apple Objective-C runtime functions  
 [mulle-objc-runtime](//github.com/mulle-objc/mulle-objc-runtime)   | A fast, portable Objective-C runtime written 100% in C11
+[mulle-objc-debug](//github.com/mulle-objc/mulle-objc-debug)       | Debugging support for the mulle-objc runtime
 
 
 Library                                                            | Description 
